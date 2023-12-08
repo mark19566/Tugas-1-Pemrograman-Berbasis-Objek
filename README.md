@@ -10,7 +10,7 @@
 
 Pembahasan :
 
-no 1:
+no-1:
 
 ![alt](https://github.com/mark19566/Tugas-1-Pemrograman-Berbasis-Objek/blob/main/Screenshot%202023-12-08%20230712.png?raw=ture)
 
@@ -28,7 +28,7 @@ print(i): Jika kondisi pada langkah 2 tidak terpenuhi, cetak nilai i. Ini akan m
 
 
 
-no 2 :
+no-2 :
 
 ![alt](https://github.com/mark19566/Tugas-1-Pemrograman-Berbasis-Objek/blob/main/Screenshot%202023-12-08%20230907.png?raw=true)
 
@@ -45,3 +45,7 @@ print(f"{i} habis dibagi 5."): Jika kondisi pada langkah 3 terpenuhi (nilai i ha
 else:: Bagian ini dijalankan jika kondisi pada langkah 3 tidak terpenuhi, artinya nilai i tidak habis dibagi 5.
 
 print(f"{i} tidak habis dibagi 5."): Jika kondisi pada langkah 3 tidak terpenuhi, cetak pesan yang menyatakan bahwa nilai i tidak habis dibagi 5.
+
+No-3:
+
+![lt](https://github.com/mark19566/Tugas-1-Pemrograman-Berbasis-Objek/blob/main/Screenshot%202023-12-08%20230620.png?raw=true)
