@@ -1,0 +1,10 @@
+
+for i in range(1, 101):
+    # Jika i adalah kelipatan 10, maka cetak nama Athaariq tiga kali
+    if i % 10 == 0:
+        print("Athaariq")
+        print("Athaariq")
+        print("Athaariq")
+  
+    else:
+        print(i)
