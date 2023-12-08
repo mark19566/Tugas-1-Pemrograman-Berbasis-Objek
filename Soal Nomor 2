@@ -1,6 +1,18 @@
+*for
 n = int(input("Masukkan angka: "))
 for i in range(n):
         if i % 5 == 0:
         print(f"{i} habis dibagi 5.")
     else:
         print(f"{i} tidak habis dibagi 5.")
+
+*while
+n = int(input("Masukkan angka: "))
+i = 0
+while i < n:
+       if i % 5 == 0:
+        print(f"{i} habis dibagi 5.")
+    else:
+        print(f"{i} tidak habis dibagi 5.")
+        i += 1
+
