@@ -28,7 +28,7 @@ print(i): Jika kondisi pada langkah 2 tidak terpenuhi, cetak nilai i. Ini akan m
 
 
 
-no-2 :
+no-2 : For
 
 ![alt](https://github.com/mark19566/Tugas-1-Pemrograman-Berbasis-Objek/blob/main/Screenshot%202023-12-08%20230907.png?raw=true)
 
@@ -45,6 +45,12 @@ print(f"{i} habis dibagi 5."): Jika kondisi pada langkah 3 terpenuhi (nilai i ha
 else:: Bagian ini dijalankan jika kondisi pada langkah 3 tidak terpenuhi, artinya nilai i tidak habis dibagi 5.
 
 print(f"{i} tidak habis dibagi 5."): Jika kondisi pada langkah 3 tidak terpenuhi, cetak pesan yang menyatakan bahwa nilai i tidak habis dibagi 5.
+
+No-2 : While 
+
+![alt](https://github.com/mark19566/Tugas-1-Pemrograman-Berbasis-Objek/blob/main/Screenshot%202023-12-08%20232611.png?raw=true)
+
+Pada kode di atas, while loop digunakan untuk mencapai hal yang sama dengan for loop. Variabel i diinisialisasi dengan 0 sebelum masuk ke dalam loop. Pada setiap iterasi, kondisi i < n diperiksa, dan jika terpenuhi, pernyataan dalam loop dijalankan. Setelah itu, nilai i ditambahkan untuk memastikan agar loop tidak menjadi tak berujung.
 
 No-3:
 
