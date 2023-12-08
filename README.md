@@ -27,8 +27,12 @@ else:: Bagian ini dijalankan jika kondisi pada langkah 2 tidak terpenuhi, artiny
 print(i): Jika kondisi pada langkah 2 tidak terpenuhi, cetak nilai i. Ini akan mencetak nilai i untuk setiap iterasi di mana i bukan kelipatan 10.
 
 
+
 no 2 :
+
 ![alt](https://github.com/mark19566/Tugas-1-Pemrograman-Berbasis-Objek/blob/main/Screenshot%202023-12-08%20230907.png?raw=true)
+
+
 Program di atas adalah contoh penggunaan perulangan for dalam rentang 1 hingga 100. Berikut adalah penjelasan baris per baris:
 
 for i in range(1, 101):: Memulai perulangan for yang akan berjalan dari 1 hingga 100. Variabel iterasi diberi nama i.
