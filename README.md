@@ -49,3 +49,11 @@ print(f"{i} tidak habis dibagi 5."): Jika kondisi pada langkah 3 tidak terpenuhi
 No-3:
 
 ![lt](https://github.com/mark19566/Tugas-1-Pemrograman-Berbasis-Objek/blob/main/Screenshot%202023-12-08%20230620.png?raw=true)
+
+Kode diats adalah contoh sederhana penggunaan list di Python dan perulangan for untuk mencetak setiap nilai dalam list. Berikut adalah penjelasan baris per baris:
+
+nilai_array = [10, 20, 30, 40, 50]: Membuat variabel nilai_array yang merupakan list dengan lima elemen berturut-turut: 10, 20, 30, 40, dan 50.
+
+for nilai in nilai_array:: Memulai perulangan for, di mana setiap elemen dalam nilai_array akan diambil satu per satu dan disimpan dalam variabel nilai.
+
+print(nilai): Mencetak nilai yang disimpan dalam variabel nilai. Perulangan for akan berlanjut hingga semua elemen dalam nilai_array diproses.
